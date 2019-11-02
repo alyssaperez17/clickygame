@@ -1,0 +1,27 @@
+.app {
+    text-align: center;
+
+}
+
+#header-container {
+    padding-top: 120px;
+    padding-bottom: 60px;
+    max-width: 100%;
+    background-color: aqua;
+}
+
+#counters {
+    color: azure;
+
+}
+
+#card-container {
+    margin-top: 120px;
+
+}
+
+.card {
+    width: 200px;
+
+}
+

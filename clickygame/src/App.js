@@ -35,7 +35,7 @@ updateCurrentScore = (newCount) => {
       </div>
     );
   }
-}
+
 
   
 
